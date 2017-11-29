@@ -28,11 +28,11 @@ Finally the output is fed to the fully connected layers.
 During the training phase the output from the network is compared with the actual output to find the error, and the weights and bias are adjusted accordingly so that the error is reduced, this technique is called __backpropogation__. 
 
 # Technologies to know to get started with machine learning
-1. Python : Simple to learn and easy to use interpreted language.
-2. Pandas :  To handle the data, basically to read and write the data
-3. Numpy: Most of the machine learing libraries require numpy array to operate on.
-4. Scikit learn : Library for well know machine learning algorithms and functions
-5. TensorFlow : Machine learning libray developed by google, supports GPU also.
+1. __Python__ : Simple to learn and easy to use interpreted language.
+2. __Pandas__ :  To handle the data, basically to read and write the data
+3. __Numpy__: Most of the machine learing libraries require numpy array to operate on.
+4. __Scikit learn__ : Library for well know machine learning algorithms and functions
+5. __TensorFlow__ : Machine learning libray developed by google, supports GPU also.
 
 
 
