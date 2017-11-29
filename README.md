@@ -10,3 +10,9 @@
      - **Flat**: Here the programmer specifies the number of classes Ex: __K Means__
      - **Hierarchial**: Here it is left to the machine to decide on the number of classes Ex: __Mean Shift__
      
+# Neural Networks
+
+![Alt text](neural_net.PNG?raw=true "Optional Title")
+![Alt text](cnn.PNG?raw=true "Optional Title")
+
+     
