@@ -33,8 +33,9 @@ During the training phase the output from the network is compared with the actua
 3. __Numpy__: Most of the machine learing libraries require numpy array to operate on.
 4. __Scikit learn__ : Library for well know machine learning algorithms and functions
 5. __TensorFlow__ : Machine learning libray developed by google, supports GPU also.
+6. __[optional for GPU] CUDA Toolkit__: For working with the Tensorflow GPU version.
 
-
+ 
 
 
 
