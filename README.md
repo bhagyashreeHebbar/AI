@@ -13,9 +13,16 @@
 # Neural Networks
 
 ![Alt text](neural_net.PNG?raw=true "Optional Title")
+
 In a neural network, The input is fed from the input layer,each node has an activation function which outputs based on the fed input, weight and bias.
 
 This output is fed into the hidden layers, and the output is obtained through output layer.
 ![Alt text](cnn.PNG?raw=true "Optional Title")
 
-Convolution neural Networks
+**Convolution neural Networks**: In this type of neural networks the input is fed into the __convolution layer__ whose main function is to get activated if necessary and does the mapping accordingly.
+
+Later this mappings is fed to the __pooling layer__, whose main function is to reduce the collection of output to a common output. Usually Max Polling is used, which will output the maximum of all the values in a given area.
+
+
+
+
