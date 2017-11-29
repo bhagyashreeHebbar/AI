@@ -23,6 +23,10 @@ This output is fed into the hidden layers, and the output is obtained through ou
 
 Later this mappings is fed to the __pooling layer__, whose main function is to reduce the collection of output to a common output. Usually Max Polling is used, which will output the maximum of all the values in a given area.
 
+Finally the output is fed to the fully connected layers.
+
+During the training phase the output from the network is compared with the actual output to find the error, and the weights and bias are adjusted accordingly so that the error is reduced, this technique is called __backpropogation__. 
+
 
 
 
